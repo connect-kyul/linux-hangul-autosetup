@@ -8,3 +8,5 @@
 > 사용! 🤩
 
 ## 오류 발생시 Issues 신고
+
+깃클론 -> `git clone https://github.com/connect-kyul/linux-hangul-autosetup.git`
